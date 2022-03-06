@@ -1,0 +1,131 @@
+.hero {
+    background-color: #1b4458;
+    font-size: 40px;
+}
+section {
+    background-color: #1b4458;
+}
+
+img {
+    border-radius: 150px;
+    height: 450px;
+    display: flex;
+}
+ 
+ h1{
+    display: inline-block;
+    font-size: 48px;
+    color: antiquewhite;
+    text-decoration: underline;
+}
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 24px;
+}
+
+#personal {
+    padding: 20px;
+    font-size: 34px;
+    color: antiquewhite;
+    background-color: #1b4458;
+    text-align: end;
+    text-decoration: underline;
+    }
+
+.sub-section{
+     display: flex;
+        justify-content: space-around;
+        color: antiquewhite;
+}   
+
+.subtext{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+
+.project-card {
+    width: 300px;
+    height: 500px;
+    border:  1px solid  black;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+article{
+    display: flex;
+        font-size: 30px;
+        color:antiquewhite;
+        background-color: #1b4458;
+    }
+
+p{
+    padding: 20px;
+    color: antiquewhite;
+    font-size: 24px;
+}
+
+h2{
+    text-decoration: underline;
+    background: #1b4458;
+    color: antiquewhite;
+}
+footer{
+    height: 500px;
+    background-color: #1b4458;
+}
+
+div {
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    background-color: #1b4458;
+    color: antiquewhite;
+}
+
+div ul {
+    list-style-type: none;
+}
+
+div ul li {
+    display:inline-block;
+    margin-left: 24px;
+}
+
+h3{
+    float: left;
+    color: antiquewhite;
+    text-decoration: underline;
+}
+
+.project-img {
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    
+
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px ;
+
+}
+
+a {
+    color: antiquewhite;
+}
