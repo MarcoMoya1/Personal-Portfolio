@@ -2,3 +2,4 @@
  
  This porfolio will have an About Me section, a section to display my work and a section of how to contact me.
  This portfolio is an on going project that will improve with time and newly developed skills. 
+The page will have a Nav bar that will take you to a certain area of the webpage with the corrisponding area.
