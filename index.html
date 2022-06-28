@@ -27,11 +27,56 @@
             
         </ul>
     </nav>
-    <header class="headshot">
-        <img src="src/images/marco.jpeg"  alt="Marco headshot">
-    </header>
+    <!--<header class="headshot"> -->
+        <!-- <img src="src/images/marco.jpeg"  alt="Marco headshot">
+    </header> --> -->
+
+
+    <header class="headshot"></header>
+    <section aria-label="Recent Photos">
+        <div class="carousel" data-carousel>
+            <button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+            <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+        <ul data-slides>
+            <li class="slide" data-active>
+                <img src="src/images/marco.jpeg" alt="Marco full body photo">
+            </li>
+            <li class="slide">
+                <img src="src/images/marco1.jpeg" alt="Marco">
+            </li>
+            <li class="slide">
+                <img src="src/images/marco2.jpeg" alt="Marco">
+            </li>
+            <li class="slide">
+                <img src="src/images/marco3.jpeg" alt="Marco">
+            </li>
+        </ul>
+    </div>
+    </section>
+</header>
 
 </section>
+
+<!-- <section aria-label="Recent Photos">
+    <div class="carousel">
+        <button class="carousel-button prev">&#8656;</button>
+        <button class="carousel-button next">&#8658;</button>
+    <ul>
+        <li class="slide" data-active>
+            <img src="src/images/marco.jpeg" alt="Marco full body photo">
+        </li>
+        <li class="slide">
+            <img src="src/images/marco1.jpeg" alt="Marco">
+        </li>
+        <li class="slide">
+            <img src="src/images/marco2.jpeg" alt="Marco">
+        </li>
+        <li class="slide">
+            <img src="src/images/marco3.jpeg" alt="Marco">
+        </li>
+    </ul>
+</div>
+</section> -->
 
 <section id="personal">Info Section</section>
     <article id="About-Me">
@@ -105,7 +150,7 @@
         </section>
       
         <footer>
-            <h3> Contact Me</h3>
+            <h3>Contact Me</h3>
 
             <article id="Contact-Me"></article>
             <div class="foot">
@@ -116,5 +161,6 @@
                 </ul>
             </div>
         </footer>
+        <script src="./src/app.js"></script>
     </body>
 </html>
