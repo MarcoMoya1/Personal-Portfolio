@@ -176,9 +176,9 @@ div {
 
 /* ^^ play with this to set footer text not on left  */
 
-div ul {
+/* div ul {
     list-style-type: none;
-}
+} */
 
 div ul li {
     display:inline-block;
@@ -210,6 +210,6 @@ a {
     color: rgb(26, 163, 168);
 }
 
-.foot {
+/* .foot {
     
-}
+} */
