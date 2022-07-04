@@ -172,12 +172,19 @@ div {
     font-size: 30px;
     background-color: #1b4458;
     color: antiquewhite;
+   
 }
+
+.sub-section {
+    /* display:grid; */
+    float:inline-start;
+}
+
 
 /* ^^ play with this to set footer text not on left  */
 
 /* div ul {
-    list-style-type: none;
+    list-style-type: circle;
 } */
 
 div ul li {
