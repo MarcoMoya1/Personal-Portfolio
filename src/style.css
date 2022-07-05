@@ -176,7 +176,7 @@ div {
 }
 
 .sub-section {
-    /* display:grid; */
+    display:grid;
     float:inline-start;
 }
 
@@ -217,6 +217,7 @@ a {
     color: rgb(26, 163, 168);
 }
 
-/* .foot {
-    
-} */
+.foot {
+    background-color: #1b4458;
+    color:antiquewhite ;
+}
