@@ -131,7 +131,6 @@ nav ul li {
 .sub-section{
         text-decoration:underline;
         color: antiquewhite;
-        /* display: inline-block; */
 }   
 
 #projects {
@@ -141,10 +140,7 @@ nav ul li {
 .subtext{
     font-size: 15px;
     font-weight: 300;
-    
-    
 }
-
 
 .project-card {
     width: 300px;
