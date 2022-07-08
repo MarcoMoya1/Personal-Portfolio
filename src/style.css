@@ -158,7 +158,20 @@ aside{
 
         
     }
+.skills {
+    background-color: #1b4458;
+    font-size: 28px;
+    text-decoration: underline;
+    color: antiquewhite;
+    text-align: center;
+}
 
+.Tech {
+    background-color: #1b4458;
+    font-style: italic;
+    color: antiquewhite;
+    font-size: 22px;
+}
 
 p{
     padding: 20px;
