@@ -94,11 +94,12 @@ section {
     color: antiquewhite;
     text-decoration: underline;
 } */
-    background-image: url('/src/images/STScI-J-v1927a-thumb.jpg');
+    background-image: url('/src/images/fire.jpg');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 50px;
 
+ }
 
  /* Navigation bar css start */
 nav {
