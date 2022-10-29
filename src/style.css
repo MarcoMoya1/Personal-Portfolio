@@ -97,6 +97,7 @@ section {
     background-image: url('/src/images/STScI-J-v1927a-thumb.jpg');
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-size: 50px;
 
 
  /* Navigation bar css start */
