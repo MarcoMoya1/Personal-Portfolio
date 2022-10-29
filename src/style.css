@@ -89,11 +89,14 @@ section {
 } 
  
  h1{
-    display: inline-block;
+    /* display: inline-block;
     font-size: 48px;
     color: antiquewhite;
     text-decoration: underline;
-}
+} */
+    background-image: url('/src/images/STScI-J-v1927a-thumb.jpg');
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 
 
  /* Navigation bar css start */
