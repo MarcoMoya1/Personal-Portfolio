@@ -119,8 +119,11 @@ nav ul {
 nav ul li {
     display: inline-block;
     margin-left: 24px;
-    
 }
+ nav ul li:hover {
+    color: darkgray;
+}
+/* Hover effect on Nav bar */
 
 /* Navigation css end */
 
