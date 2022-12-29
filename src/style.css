@@ -241,8 +241,12 @@ a {
 }
 
 .foot {
-    
+
     background-color: #1b4458;
     color:antiquewhite ;
 
+}
+
+.foot:hover {
+    color: grey
 }
